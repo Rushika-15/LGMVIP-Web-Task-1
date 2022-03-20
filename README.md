@@ -1,2 +1,2 @@
 # todo.list
-This is a repository for project todo list using HTML, CSS, JavaScript.
+Beginner level Task 1 - Create a To-Do List Web Application.
